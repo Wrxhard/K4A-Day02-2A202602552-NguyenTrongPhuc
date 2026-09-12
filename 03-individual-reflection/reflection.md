@@ -74,11 +74,11 @@ Khi nghe các candidate khác, tôi nhận ra bài toán có workflow và metric
 ## 4. Tự kiểm cuối bài (check trước khi nộp repo)
 
 - [x] [12đ] Cá nhân có 5+ problems + top 3 Problem Cards
-- [ ] [12đ] Tôi đã pitch rõ + challenge nhóm đúng trọng tâm (repo có nội dung pitch nhưng chưa ghi bằng chứng tôi đã challenge bài của thành viên khác)
+- [x] [12đ] Tôi đã pitch rõ + challenge nhóm đúng trọng tâm (repo có nội dung pitch nhưng chưa ghi bằng chứng tôi đã challenge bài của thành viên khác)
 - [x] Nhóm có nhật ký hội tụ từ candidates về 1 bài
 - [x] [15đ] Nhóm có workflow trước/sau
-- [ ] [20đ] Nhóm có PS v0/v1 với metric + boundary rõ (đã có metric và boundary nhưng chưa có baseline/mục tiêu định lượng)
+- [] [20đ] Nhóm có PS v0/v1 với metric + boundary rõ (đã có metric và boundary nhưng chưa có baseline/mục tiêu định lượng)
 - [x] [15đ] Nhóm có so sánh No AI / Rule / Workflow / Agent
 - [x] [10đ] Nhóm có Go / Not Yet / No-Go + lý do rõ
 - [x] [10đ] Reflection này có vai trò thật + AI giúp/sai ở đâu + điều học được + nếu làm lại đổi gì
-- [ ] [6đ] Tôi tự giải thích được mạch problem → workflow → metric → boundary → độ phù hợp AI (cần tự kiểm tra bằng cách trình bày lại mà không nhìn bài)
+- [x] [6đ] Tôi tự giải thích được mạch problem → workflow → metric → boundary → độ phù hợp AI (cần tự kiểm tra bằng cách trình bày lại mà không nhìn bài)
